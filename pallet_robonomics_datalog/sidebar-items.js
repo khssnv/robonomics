@@ -1,1 +1,1 @@
-initSidebarItems({"enum":[["Call","Dispatchable calls."],["RawEvent","Events for this module."]],"struct":[["Module",""]],"trait":[["Trait","Datalog module main trait."]],"type":[["Event","[`RawEvent`] specialized for the configuration [`Trait`]"],["MomentOf","Type synonym for timestamp data type."]]});
+window.SIDEBAR_ITEMS = {"mod":[["pallet","The module that hosts all the FRAME types needed to add this pallet to a runtime."]],"trait":[["WeightInfo",""]]};

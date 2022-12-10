@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["COASE",""],["GLUSHKOV",""],["XRT",""]],"fn":[["deposit",""]]});
